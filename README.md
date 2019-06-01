@@ -1,7 +1,5 @@
-## Flutter Easy Widgets
-Our first experience in creating a flutter application.
-
 ## Flutter Community
+Our first experience in creating a flutter application.
 Application to allow a more efficient sharing of code in a mobile platform.
 
 ## Built with
