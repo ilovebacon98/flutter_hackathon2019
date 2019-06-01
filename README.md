@@ -1,3 +1,6 @@
+## Flutter Easy Widgets
+Our first experience in creating a flutter application.
+
 ## Flutter Community
 Application to allow a more efficient sharing of code in a mobile platform.
 
@@ -8,6 +11,11 @@ Application to allow a more efficient sharing of code in a mobile platform.
 
 ## Getting Started
 To setup the environment, refer to: [https://flutter.dev/docs/get-started/install/windows](https://flutter.dev/docs/get-started/install/windows)
+
+1. Check your own flutter environment to ensure that everything is working: 
+`flutter doctor`
+
+2. Connect device to computer and run the code once to deploy to device.
 
 ## Authors
 - Xiong, WenXi
